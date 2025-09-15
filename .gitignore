@@ -1,0 +1,28 @@
+#macOS
+.DS_Store
+
+#Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+build/
+dist/
+
+# Arduino / IDEs
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.lst
+.vscode/
+.idea/
+
+# Logs
+*.log
